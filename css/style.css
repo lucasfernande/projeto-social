@@ -33,13 +33,13 @@ section#telefone {
     background: url('../img/frame-iphone.png') no-repeat;
 }
 
-iframe#tela {
+iframe#tela-celular {
     position: relative;
     top: 80px;
     left: 22px;
 
-    width: 268px;
-    height: 472px;
+    width: 267px;
+    height: 471px;
 }
 
 section#redes-sociais {
